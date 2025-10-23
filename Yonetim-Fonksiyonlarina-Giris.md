@@ -152,7 +152,7 @@
 
 * Performans değerlendirme → 360 derece model.
 * Geri bildirim → düzeltici eylem.
-* Fazla denetim motivasyonu düşürür (“Üniversitede sürekli GÖK denetimi gibi”).
+* Fazla denetim motivasyonu düşürür (“Üniversitede sürekli YÖK denetimi gibi”).
 
 ---
 
