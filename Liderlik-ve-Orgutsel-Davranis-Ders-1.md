@@ -158,4 +158,4 @@
 * Değişim, iletişim + örnek olma + yapılandırılmış uygulama ile kalıcı olur.
 * Karar mimarisi ve ölçüm kültürü, örgütsel zekanın omurgasıdır.
 
-**Hazırlayan:** Mini MBA – Liderlik ve Örgütsel Davranış Ders
+**Hazırlayan:** Mini MBA – Liderlik ve Örgütsel Davranış
