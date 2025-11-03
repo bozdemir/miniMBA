@@ -158,6 +158,4 @@
 * Değişim, iletişim + örnek olma + yapılandırılmış uygulama ile kalıcı olur.
 * Karar mimarisi ve ölçüm kültürü, örgütsel zekanın omurgasıdır.
 
-**Hazırlayan:** Mini MBA – Liderlik ve Örgütsel Davranış Ders Notu  
-**Kaynaklar:** Ders kayıtları (1a_16k_best, 1b_16k_best), SRT zamanlamaları, el yazısı notları.  
-**Format:** Markdown; sınav öncesi tekrar ve pratik kullanım için sadeleştirilmiştir.
+**Hazırlayan:** Mini MBA – Liderlik ve Örgütsel Davranış Ders
