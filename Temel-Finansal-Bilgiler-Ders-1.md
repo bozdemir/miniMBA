@@ -1,4 +1,4 @@
-## Kapsamlı Finansal Analiz Raporu
+## Temel Finansal Bilgiler
 
 ### 1. Ders Özeti
 
