@@ -1,10 +1,10 @@
 # Finansal Tablolar Analizi Kapsamlı Raporu
 
-## 1. Yönetici Özeti
+## 1. Ders Özeti
 
 Bu rapor, işletmelerin ekonomik faaliyetlerini kaydetme, sınıflandırma, raporlama ve yorumlama süreçlerinde kullanılan temel finansal tabloları detaylandırmaktadır. Bilanço (finansal durum tablosu), bir şirketin varlık ve kaynak yapısını belirli bir tarihte gösterirken; gelir tablosu, belirli bir faaliyet dönemindeki gelir ve giderleri özetler. Nakit akım tablosu ise nakit giriş ve çıkışlarını izleyerek, kârlılık ile nakit akışı arasındaki kritik farkı vurgular. Şirketlerin finansal sağlığını kapsamlı bir şekilde anlamak için bu tabloların detaylı analizi ve dipnotların incelenmesi büyük önem taşımaktadır.
 
-## 2. Detaylı Bulgular
+## 2. Alt Başlıklar
 
 ### Finansal Raporlamanın Temelleri
 *   Finansal raporlama, ekonomik faaliyetlerin **kayıt, sınıflandırma, rapor ve yorumlama** süreçlerini içerir.
