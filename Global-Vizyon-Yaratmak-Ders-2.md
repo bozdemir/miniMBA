@@ -51,6 +51,3 @@ Bu rapor, stratejik planlamanın küresel ekonomik ekosistemle uyumunun kritik �
 *   Ulrich Beck'e atıfta bulunarak, konuşmacı kapitalizmin, gerçekten yeni, yüksek değerli öneriler yaratma yeteneğinin olmaması nedeniyle bir kriz içinde olduğunu, bunun düşük kar marjlarına (yaklaşık %10) ve inovasyon risklerinin toplum tarafından üstlenilmesine yol açtığını savunmaktadır.
 *   Mevcut sistem, bireylerin başarısızlık için kişisel sorumluluk almadan yüksek riskli vaatlerde bulunmasına olanak tanır, çünkü bu tür girişimlerin riskleri genellikle topluma veya devlete aktarılır.
 *   Mevcut kriz, yüksek değerli önerilerin eksikliği ile karakterize edilmekte, bu da küresel ekonomik durgunluğa yol açmakta, kar marjları düşük kalmakta ve sistem büyüme ve gerçek değer yaratma için yeni yollar bulmakta zorlanmaktadır.
-
-
-Sağlanan verilerde herhangi bir eylem maddesi belirtilmemiştir.
